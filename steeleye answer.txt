@@ -1,0 +1,25 @@
+Step 1:
+
+A collection defined:
+
+Let us just look at how to generate a list with React. To accomplish this, researchers will traverse the column element using the map() code and will surround modifications in square brackets. The parts and components are then assigned to listItems. Finally, display this list on the Web by putting it among the ul> and /ul> components.
+
+Step 2:
+
+React's components list creation work:
+
+In order to create lists of pieces, students must use the character characteristic "key," as specified in the React documentation. To determine whether items in a list had already been modified, added, or destroyed, React need so many keys. An individual identifier is required for each object. The id about an entity usually works nicely for all of that.
+
+Collection but instead attributes presume:
+
+Whenever making lists of components in Javascript, users must use a special word attribute called "key". React uses keys to indicate whether additional burdens have been modified, removed, or altered. Or, to put it another way, designers may say that keywords are applied to identify the components in collections.
+
+Explanation:
+
+Keyboards are a component that makes it easier to recognize where things changed, been added, or been taken away. The array's members should really be given keys so they can maintain their uniqueness while being printed. Task aspects are a means to create elements in Redux that don't possess their own storage and only use a serve procedure. They are merely Scripting processes that might or might not include credentials that contain data. Humans would write a process that accepts the props(properties) argument and outputs the displayed result.
+
+Answer:
+
+Note:
+
+They aid in establishing and upholding different kinds of honesty. Countertop authenticity and marriage authenticity both heavily rely on keys.

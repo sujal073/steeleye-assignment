@@ -1,0 +1,1 @@
+The List and ListItem component are used so often in React applications, that they can be taken as list template or boilerplate, because often you just copy and paste the same implementation for a simple list over to your code. So keeping this structure for a list component in mind doesn't harm.
